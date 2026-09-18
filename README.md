@@ -1,4 +1,4 @@
-# Taller: Medusa JS + Supabase + región Ecuador (USD)
+# Taller: Medusa JS + Supabase
 
 Taller práctico para armar una tienda [Medusa JS](https://medusajs.com) v2 con storefront Next.js, usando [Supabase](https://supabase.com) **solo como PostgreSQL** y [Cursor](https://cursor.com) en Agent mode.
 
